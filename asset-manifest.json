@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/additinal-class-05-02/static/css/main.7acaea2f.css",
+    "main.js": "/additinal-class-05-02/static/js/main.2c87dc70.js",
+    "index.html": "/additinal-class-05-02/index.html",
+    "main.7acaea2f.css.map": "/additinal-class-05-02/static/css/main.7acaea2f.css.map",
+    "main.2c87dc70.js.map": "/additinal-class-05-02/static/js/main.2c87dc70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.2c87dc70.js"
+  ]
+}
